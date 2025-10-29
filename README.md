@@ -57,4 +57,4 @@
 	<img src="https://github-readme-stats.vercel.app/api?username=chittaranjan24&show_icons=true&locale=en" alt="GitHub Stats" />
 </p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=chittaranjan24&" alt="chittaranjan24" /></p>
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=chittaranjan24&" alt="chittaranjan24" /></p>
